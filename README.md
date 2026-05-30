@@ -111,8 +111,8 @@ python main.py
 
 ```
 chargegrid-intelligence
- ├── main.py
  ├── README.md
+ ├── main.py
  └── /assets (opcional - imagens e gráficos)
 ```
 
