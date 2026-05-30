@@ -81,7 +81,7 @@ O sistema apresenta:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clone o repositório
 
@@ -147,24 +147,12 @@ O desenvolvimento foi organizado utilizando a metodologia **Kanban**, permitindo
 
 ## Integrantes
 
-* Guilherme Miranda
-* Rafael Gandolfi
-* Rafael Lins
-* Carlos Eduardo
-* Cauã Paes
-
----
-
-## Demonstração
-
-Vídeo no YouTube: *(inserir link)*
-
----
-
-## Links Importantes
-
-* Repositório GitHub: *(inserir link)*
-* Quadro Kanban: *(inserir link)*
+* Guilherme Miranda - 573107
+* Rafael Gandolfi - 569036
+* Rafael Lins - 570588
+* Carlos Eduardo - 572949
+* Cauã Paes - 569906
+* João Pedro - 569725
 
 ---
 
